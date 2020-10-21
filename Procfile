@@ -1,1 +1,1 @@
-web: gunicorn flask-restplus-boilerplate:app
+web: gunicorn app
